@@ -10,7 +10,7 @@
 
  ### 👨‍💻  Author
 
- Ui developed by DamiFlutter 
+Developed by ByteSlinger
 
 # Screenshot:
 
