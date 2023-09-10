@@ -6,7 +6,7 @@
 
 * Any Operating System (MacOS, Linux, Windows)
 * Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
-* A little knowledge of Dart and Flutter
+* Proficient in Dart and Flutter
 
  ### 👨‍💻  Author
 
